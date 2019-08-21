@@ -2,7 +2,7 @@
 
 ## Q :  
 
-![](D:\Study\信号与系统\picture\冲激响应.png)
+![](picture\冲激响应.png)
 
 
 
