@@ -309,6 +309,7 @@ $$
 |    $\because$     |  \because  |
 |   $\therefore$    | \therefore |
 | $a\quad b$ (空格) |   \quad    |
+| $\partial$ (偏导) |  \partial  |
 
 花括号：
 $$
